@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.singh.daman.proprogressviews.CircleArcProgress xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:arc_radius="50dp"
+    app:circle_size="30dp"
+    android:id="@+id/circle"
+    app:arc_color="@android:color/holo_red_dark"
+    app:color_circle="@android:color/holo_red_dark"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+</com.singh.daman.proprogressviews.CircleArcProgress>
